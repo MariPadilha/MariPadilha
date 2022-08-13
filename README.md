@@ -18,7 +18,7 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 - Nome: Mariana R. Padilha
 - Minha idade: 16 Anos
 - Apaixonada por: Tecnologia, guitarra, robótica, filmes e séries
-- Linguagens: Python(py) e Javascript(js)
+- Linguagens: Python(py), Javascript(js) e C
 <hr>
 
 <b><h3><p align="center">Projeto que estou *trabalhando* atualmente:</b></h3></p>
@@ -34,6 +34,8 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mari-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mari-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
 </div>
 <hr>
 
@@ -43,11 +45,15 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 <hr>
 
 ### Tempo de estudo de Py⏲️:
-- Estudo Python há alguns meses
+- Estudo Python há um ano
 <hr>
 
 ### Tempo de estudo de js⏲️:
-- Estudo Javascript há algumas semanas
+- Estudo Javascript há alguns meses
+<hr>
+
+### Tempo de estudo de C⏲️:
+- Estudo C há uma semana
 <hr>
 
 ### Cursos que fiz sobre Python 📚:
@@ -63,6 +69,13 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 - [x] Curso de Javascript do Gustavo Guanabara
 
 <hr>
+
+### Cursos que fiz sobre C 📚:
+
+- [x] Introdução à Programação do Neps Academy
+
+<hr>
+
 <h3 align="left">
     <p><u> Minhas redes sociais abaixo: </u></p>
 </h3>
@@ -70,7 +83,7 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
   <a href="https://instagram.com/mari_rodrigues.of" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/zgKXnJEh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatomari.475620@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/970467681318887444/982506302506958879/Webp.net-gifmaker.gif?width=676&height=676">
+  <img align="right" alt="mari-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/970467681318887444/982506302506958879/Webp.net-gifmaker.gif?width=676&height=676">
 </div>
 </div>
 <hr>
