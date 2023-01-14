@@ -80,7 +80,7 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
     <p><u> Minhas redes sociais abaixo: </u></p>
 </h3>
 <div> 
-  <a href="https://instagram.com/mari_rodrigues.of" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/mari.padilha.of" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/zgKXnJEh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatomari.475620@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="right" alt="mari-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/970467681318887444/982506302506958879/Webp.net-gifmaker.gif?width=676&height=676">
