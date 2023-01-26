@@ -16,8 +16,8 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 
 # Sobre mim:
 - Nome: Mariana R. Padilha
-- Minha idade: 16 Anos
-- Apaixonada por: Tecnologia, guitarra, robótica, filmes e séries
+- Minha idade: 17 Anos
+- Apaixonada por: Tecnologia, livros, guitarra, robótica, filmes, séries e karate
 - Linguagens: Python(py), Javascript(js) e C
 <hr>
 
