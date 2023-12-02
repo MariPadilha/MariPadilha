@@ -16,25 +16,18 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 
 # Sobre mim:
 - Nome: Mariana R. Padilha
-- Minha idade: 16 Anos
+- Minha idade: 17 Anos
 - Apaixonada por: Tecnologia, livros, guitarra, robótica, filmes, séries e karate
 - Linguagens: Python(py), Javascript(js), C, C# e C++
 <hr>
 
 <b><h3><p align="center">Projeto que estou *trabalhando* atualmente:</b></h3></p>
 
-<h4 align="center">
-    <img src="https://conteudo.imguol.com.br/c/entretenimento/c3/2017/11/24/albert-einstein-1511565360545_v2_3x4.jpg" width="250" heigth="250"/>
-    <p>Einstein Bot de Discord</p>
-    <p>Tempo de desenvolvimento: 3 dias</p>
-    <p>Comandos adicionados até agora: 2 comandos</p>
-<hr>
-
 ### Linguagens:
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mari-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mari-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Mari-c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 </div>
 <hr>
@@ -42,18 +35,6 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 ### Descrição do meu objetivo:
 - Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvendo programas novos
 - Gosto de trabalhar em equipe!
-<hr>
-
-### Tempo de estudo de Py⏲️:
-- Estudo Python há um ano
-<hr>
-
-### Tempo de estudo de js⏲️:
-- Estudo Javascript há alguns meses
-<hr>
-
-### Tempo de estudo de C⏲️:
-- Estudo C há uma semana
 <hr>
 
 ### Cursos que fiz sobre Python 📚:
