@@ -35,7 +35,7 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 <hr>
 
 ### Descrição do meu objetivo:
-- Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvendo programas novos
+- Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvendo programas novos.
 - Gosto de trabalhar em equipe!
 <hr>
 
