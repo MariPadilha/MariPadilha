@@ -15,11 +15,11 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 
 # Sobre mim:
-- Nome: Mariana R. Padilha
+- Nome: Mariana Rodrigues Padilha
 - Minha idade: 17 Anos
 - Certificada por Cambridge em proficiência em inglês B1 - pontuação 155
 - Apaixonada por: Tecnologia, livros, guitarra, robótica, filmes, séries e karate
-- Linguagens: Python(py), Javascript(js), C, C# e C++
+- Linguagens: Python(py), Javascript(js), C, C#, C++ e java.
 <hr>
 
 ### Linguagens:
@@ -29,6 +29,7 @@ Hi devs! Sejam bem-vindos ao meu perfil! 👋
   <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="c#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="c++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 
 </div>
