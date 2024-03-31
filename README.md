@@ -7,7 +7,7 @@
 <p align="center"><img align="center"src="https://profile-counter.glitch.me/MariPadilha/count.svg"/></p>
    </p><hr>
    
-###``I`m Mariana Rodrigues Padilha, 17-year-old Computer Science student at Federal University of Pampa (UNIPAMPA). Cambridge B1 English certified (155 points). Passionate about tech and global opportunities. 🚀``
+### ``I`m Mariana Rodrigues Padilha, 17-year-old Computer Science student at Federal University of Pampa (UNIPAMPA). Cambridge B1 English certified (155 points). Passionate about tech and global opportunities. 🚀``
 
 ***
 
