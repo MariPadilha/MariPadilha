@@ -7,7 +7,7 @@
 <p align="center"><img align="center"src="https://profile-counter.glitch.me/MariPadilha/count.svg"/></p>
    </p><hr>
    
->### I`m Mariana Rodrigues Padilha, 17-year-old Computer Science student at Federal University of Pampa (UNIPAMPA). Cambridge B1 English certified (155 points). Passionate about tech and global opportunities. 🚀
+>### I`m Mariana Rodrigues Padilha. I'm 17 years old and a computer science student at Federal University of Pampa (UNIPAMPA). I'm certified by Cambridge as a B1 Preliminary level (155 points). I'm passionate about tech and global opportunities. 🚀
 
 ***
 
@@ -25,7 +25,7 @@
 <hr>
 
 ## **About me:**
->### Hey there! I'm a programmer with a passion for karate, where I proudly hold an orange belt. Beyond coding, I'm also a singer-songwriter with a track on Spotify and a few singing competition wins. In my downtime, you'll often find me expressing my creativity through painting or strumming on my electric guitar. And when I need to unwind, there's nothing better than diving into my favorite TV series and movies for some inspiration and relaxation.
+>### Hey there! I'm a programmer with a passion for karate, where I proudly hold an orange belt. Beyond coding, I'm also a singer-songwriter with a track on Spotify and a few singing competition trophies. In my downtime, you'll often find me expressing my creativity through painting or strumming on my electric guitar. And when I need to unwind, there's nothing better than diving into my favorite TV series and movies for some inspiration and relaxation.
 
 <hr>
 <h3 align="left">
