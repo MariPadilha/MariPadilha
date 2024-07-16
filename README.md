@@ -25,7 +25,7 @@
 <hr>
 
 ## **About me:**
->### Hey there! I'm a programmer with a passion for karate, where I proudly hold an green belt. Beyond coding, I'm also a singer-songwriter with a track on Spotify and a few singing competition trophies. In my downtime, you'll often find me expressing my creativity through painting or strumming on my electric guitar. And when I need to unwind, there's nothing better than diving into my favorite TV series and movies for some inspiration and relaxation.
+>### Hey there! I'm a programmer with a passion for karate, where I proudly hold a green belt. Beyond coding, I'm also a singer-songwriter with a track on Spotify and a few singing competition trophies. In my downtime, you'll often find me expressing my creativity through painting or strumming on my electric guitar. And when I need to unwind, there's nothing better than diving into my favorite TV series and movies for some inspiration and relaxation.
 
 <hr>
 <h3 align="left">
