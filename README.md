@@ -16,26 +16,8 @@ When I'm not coding, I enjoy mentoring others, especially in robotics, which I e
 <hr>
 ## 🖥️ **Languages**: 
 <div style="display: inline_block"><br>
-<img align="center" alt="rafael-HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" height="40" width="auto" title="HTML5"/>
-  <img align="center" alt="rafael-CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="auto" title="CSS3"/>
-  <img align="center" alt="rafael-JS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="40" width="auto" title="Javascript"/>
-  <img align="center" alt="rafael-TS" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="40" width="auto" title="TypeScript"/>
-  <img align="center" alt="rafael-React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="auto" title="React"/>
-  <img align="center" alt="rafael-Next" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" height="40" width="auto" title="Next.JS"/>
-  <img align="center" alt="rafael-Tailwind" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="auto" title="Tailwind CSS"/>
-<img align="center" alt="rafael-Python" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="rafael-c" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-  <img align="center" alt="rafael-c++" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="rafael-java" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" align="center" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="auto" align="center" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="auto" align="center" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="center"  alt="mysql" width="auto" height="40"/> 
- <img align="center" alt="Logo-flask" height="40" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"> 
-  <img align="center" alt="rafael-nodejs" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-   <img align="center" alt="rafael-jQUERY" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/jquery/jquery-original-wordmark.svg">
- 
+[![My Skills](https://skillicons.dev/icons?i=js,docker,react,nextjs,nodejs,sass,npm,sqlite,postgres,postman,tailwind,py,flask,fastapi,figma,bootstrap,c,cpp,html,css,discord,express,git,github,gmail,go,java,jquery,materialui,mysql)](https://skillicons.dev)
 
 </div>
 <hr>
