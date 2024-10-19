@@ -4,7 +4,7 @@
 
 I love diving deep into cloud infrastructure and containerization. Security and Automation is another passion of mine, and I'm always experimenting with tools and techniques to make systems safer. 🔐  
 
-When I'm not coding, I enjoy mentoring others, especially in robotics, which I explore with a friend who's starting her journey in the field. Outside of tech, I'm a lifelong learner—whether it's picking up new programming languages, fine-tuning APIs like Google Chat and WhatsApp, or improving my systems with OAuth2, JWT authentication, and C4 Model diagrams. 📚  
+When I'm not coding, I enjoy mentoring others. Outside of tech, I'm a lifelong learner—whether it's picking up new programming languages, fine-tuning APIs like Google Chat and WhatsApp, or improving my systems with OAuth2, JWT authentication, and C4 Model diagrams. 📚  
 ***
 
 <p align="center">Visitors:</p>
