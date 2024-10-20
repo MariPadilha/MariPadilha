@@ -21,17 +21,17 @@ When I'm not coding, I enjoy mentoring others. Outside of tech, I'm a lifelong l
 
 </div>
 <hr>
+<div align="center">
+<h3>Awards & Contest</h3>
 
-<details>
-<summary>Awards & Contest</summary>
+| Topic | Event | Year |
+| :---: | :---: | :---: |
+| Terceiro lugar Nacional | Sistema Integral del Rally Latinoamericano de Innovación | 2023 |
+| Primeiro lugar estadual | Sistema Integral del Rally Latinoamericano de Innovación | 2023 |
+| Primeiro lugar na Sede (Unipampa) | Sistema Integral del Rally Latinoamericano de Innovación | 2023 |
+   
+</div>
 
-| Topic | Event |
-| :---: | :---: |
-| Terceiro lugar Nacional | Rally 2023 |
-| Primeiro lugar estadual | Rally 2023 |
-| Primeiro lugar na Sede (Unipampa) | Rally 2023 |
-
-</details>
 <hr>
 <h3 align="left">
     <p><u> My social medias: </u></p>
