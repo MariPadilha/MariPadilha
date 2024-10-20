@@ -9,9 +9,17 @@ When I'm not coding, I enjoy mentoring others. Outside of tech, I'm a lifelong l
 
 <p align="center">Visitors:</p>
 <p align="center"><img align="center"src="https://profile-counter.glitch.me/RafaelNogueiXD/count.svg"/></p>
-<div style="display: flex; justify-content: center; align-items: center; width: 100% "><br>
-  <img align="center" style="margin-left: 20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNogueiraXD&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Rafael Nogueira" />
+<div align="center"><br>
+   <table>
+      <tr>
+         <td>
+           <img align="center" style="margin-left: 20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNogueiraXD&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Rafael Nogueira" /> 
+         </td>
+         <td>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelNogueiraXD&theme=dark&hide_border=false" alt="Rafael Nogueira" />
+         </td>
+      </tr>
+   </table>
 </div>
 <hr>
 ## 🖥️ **Languages**: 
