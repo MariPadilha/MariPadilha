@@ -37,7 +37,7 @@ When I'm not coding, I enjoy mentoring others. Outside of tech, I'm a lifelong l
     <p><u> My social medias: </u></p>
 </h3>
 <div> 
-  <a href="https://instagram.com/mari.padilha.of" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rafaelnogrd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/rafael-nogueira-rodrigues-3a669320a/" target="_blank"><img src="https://img.shields.io/badge/-linkedln-%23E4405F?style=for-the-badge&logo=linkedlin" target="_blank"></a> 
   <a href = "mailto:poeumenb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
