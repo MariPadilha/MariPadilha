@@ -1,7 +1,7 @@
    
 <h2>Hey there! 👋 </h2>
 ### I'm a passionate software developer who thrives on creating innovative solutions! Currently,  One of my exciting projects is Jarvas, an API that keeps developers updated on their app statuses through smart notifications and data storage. 🚀  
-
+<br>
 I love diving deep into cloud infrastructure and containerization. Security and Automation is another passion of mine, and I'm always experimenting with tools and techniques to make systems safer. 🔐  
 
 When I'm not coding, I enjoy mentoring others. Outside of tech, I'm a lifelong learner—whether it's picking up new programming languages, fine-tuning APIs like Google Chat and WhatsApp, or improving my systems with OAuth2, JWT authentication, and C4 Model diagrams. 📚  
