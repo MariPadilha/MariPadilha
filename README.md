@@ -17,7 +17,7 @@ When I'm not coding, I enjoy mentoring others. Outside of tech, I'm a lifelong l
 ## 🖥️ **Languages**: 
 <div style="display: inline_block"><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,docker,react,nextjs,nodejs,sass,npm,sqlite,postgres,postman,tailwind,py,flask,fastapi,figma,bootstrap,c,cpp,html,css,discord,express,git,github,gmail,go,java,jquery,materialui,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,docker,react,nextjs,nodejs,sass,npm,sqlite,postgres,postman,tailwind,py,flask,fastapi,figma,bootstrap,c,cpp,html,css,discord,express,git,github,gmail,go,java,jquery,materialui,mysql,php)](https://skillicons.dev)
 
 </div>
 <hr>
