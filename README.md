@@ -1,14 +1,9 @@
    
-<h2>Hey there! 👋 </h2>
-### I'm a passionate software developer who thrives on creating innovative solutions! Currently,  One of my exciting projects is Jarvas, an API that keeps developers updated on their app statuses through smart notifications and data storage. 🚀  
-<br>
-I love diving deep into cloud infrastructure and containerization. Security and Automation is another passion of mine, and I'm always experimenting with tools and techniques to make systems safer. 🔐  
+<h2>👋 Hi, I'm Rafael! </h2>
 
-When I'm not coding, I enjoy mentoring others. Outside of tech, I'm a lifelong learner—whether it's picking up new programming languages, fine-tuning APIs like Google Chat and WhatsApp, or improving my systems with OAuth2, JWT authentication, and C4 Model diagrams. 📚  
-***
+>#### I'm a sixth-term computer science student passionate about development and knowledge sharing. I've completed a technical course in informatics and am engaged in research scholarships. My work has been featured at various events, and my latest project, Jarvas, is being utilised by master’s students as part of their studies. I'm always eager to learn and contribute to innovative projects!
+<hr>
 
-<p align="center">Visitors:</p>
-<p align="center"><img align="center"src="https://profile-counter.glitch.me/RafaelNogueiXD/count.svg"/></p>
 <div align="center"><br>
    <table>
       <tr>
@@ -22,21 +17,47 @@ When I'm not coding, I enjoy mentoring others. Outside of tech, I'm a lifelong l
    </table>
 </div>
 <hr>
-## 🖥️ **Languages**: 
-<div style="display: inline_block"><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,docker,react,nextjs,nodejs,sass,npm,sqlite,postgres,postman,tailwind,py,flask,fastapi,figma,bootstrap,c,cpp,html,css,discord,express,git,github,gmail,go,java,jquery,materialui,mysql,php)](https://skillicons.dev)
+## 💻 **Tech Stack**:
+   - Languages: JavaScript, Python, TypeScript
+   - Frameworks: React, Node.js, Django, Flask
+   - Cloud & DevOps: AWS, Docker, Kubernetes
+   - Security: OAuth2, JWT authentication, C4 Model diagrams
 
 </div>
 <hr>
+
+## My currently project
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=LeetCode%20Solutions&fontSize=70&fontAlignY=70" /> 
+
+<details>
+    <summary><h3>click to know more</h3></summary>
+<hr>
+   
+#### Jarvas is my latest project, designed as a versatile and intelligent system aimed at improving the efficiency of task management and automation. It incorporates cutting-edge technologies to provide a seamless user experience and is currently being used as a study tool by master’s students in a university course.
+   
+Key features include:
+
+>- Task Automation: Jarvas simplifies complex workflows, enabling users to automate repetitive tasks.
+>- Intelligent Assistance: The system uses algorithms to provide smart recommendations and optimise decision-making.
+>- Scalability: Built to handle various use cases, from small teams to large organisations.
+>- Security: Robust implementation of OAuth2 and JWT authentication ensures that user data is protected.
+>- Jarvas is a work in progress, and I’m constantly adding new features and optimising it for real-world applications. It’s a project that reflects my passion >- for automation, cloud technologies, and security.
+
+***
+Check out the Jarvas project <a href="link">here</a>.
+</details>
+<hr>
+
 <div align="center">
 <h3>Awards & Contest</h3>
 
 | Topic | Event | Year |
 | :---: | :---: | :---: |
-| Terceiro lugar Nacional | Sistema Integral del Rally Latinoamericano de Innovación | 2023 |
-| Primeiro lugar estadual | Sistema Integral del Rally Latinoamericano de Innovación | 2023 |
-| Primeiro lugar na Sede (Unipampa) | Sistema Integral del Rally Latinoamericano de Innovación | 2023 |
+| Third place National | Integral System of the Latin American Innovation Rally | 2023 |
+| First place State | Integral System of the Latin American Innovation Rally | 2023 |
+| First place at Federal University of Pampa (UNIPAMPA) | Integral System of the Latin American Innovation Rally | 2023 |
    
 </div>
 
