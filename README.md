@@ -2,9 +2,7 @@
     <p>
 👉Hi devs! Welcome to my profile!👈
 </h1>
-    
-<p align="center">Visitors:</p>
-<p align="center"><img align="center"src="https://profile-counter.glitch.me/MariPadilha/count.svg"/></p>
+
    </p><hr>
    
 >### I`m Mariana Rodrigues Padilha. I'm 19 years old and a computer science student at Federal University of Pampa (UNIPAMPA). I'm certified by Cambridge as a B2 Preliminary level. I'm passionate about tech and global opportunities. 🚀
