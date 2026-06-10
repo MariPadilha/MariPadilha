@@ -5,7 +5,7 @@
 
    </p><hr>
    
->### I`m Mariana Rodrigues Padilha. I'm 19 years old and a computer science student at Federal University of Pampa (UNIPAMPA). I'm certified by Cambridge as a B2 Preliminary level. I'm passionate about tech and global opportunities. 🚀
+>### I`m Mariana Rodrigues Padilha. I'm 20 years old and a computer science student at Federal University of Pampa (UNIPAMPA). I'm certified by Cambridge as a B2 Preliminary level. I'm passionate about tech and global opportunities. 🚀
 
 ***
 
